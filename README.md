@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gishpathirana&label=Profile%20views&color=0e75b6&style=flat" alt="gishpathirana" /> </p>
 
-- 🔭 I’M CURRENTLY WORKING AS  LEASING EXECTIVE  @LOLC
+- 🔭 I’M CURRENTLY WORKING AS  LEASING EXECUTIVE  @LOLC
 
 
 <h3 align="left">Connect with me:</h3>
