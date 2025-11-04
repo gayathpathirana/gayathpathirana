@@ -1,5 +1,5 @@
 <h1 align="center">     THIS IS THE OFFICIAL GITHUB PROFILE OF            GAYATH PATHIRANA</h1>
-<h3 align="center">UUNDERGRADUATE @UWU | BSC(HONS) COMPUTER SCIENCE @DEPOFCSI</h3>
+<h3 align="center">UNDERGRADUATE @UWU | BSC(HONS) COMPUTER SCIENCE @DEPOFCSI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gishpathirana&label=Profile%20views&color=0e75b6&style=flat" alt="gishpathirana" /> </p>
 
